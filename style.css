@@ -1,0 +1,26 @@
+form {
+		margin: 10px;
+}
+label {
+		display: inline-block;
+		width: 180px;
+}
+.longtext {
+		width: 400px;
+}
+.number {
+		width: 100px;
+}
+.shorttext {
+		width: 196px;
+}
+select {
+		width: 200px;
+}
+.radio {
+		width: 80px;
+}
+textarea {
+		width: 580px;
+		min-height: 50px;
+}
